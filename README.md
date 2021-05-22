@@ -1,1 +1,2 @@
-# NLP-Project
+# Information Extraction application 
+
